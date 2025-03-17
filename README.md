@@ -1,2 +1,2 @@
 # literate-enigma
-go for tiny demo api Gateway
+golang for tiny demo api Gateway
