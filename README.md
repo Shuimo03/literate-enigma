@@ -1,2 +1,2 @@
 # literate-enigma
-tiny demo api Gateway
+go for tiny demo api Gateway
